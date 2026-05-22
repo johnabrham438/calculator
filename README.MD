@@ -1,1 +1,1 @@
-I am create simple calculator with html css javascript
+simple calculator with html css javascript
